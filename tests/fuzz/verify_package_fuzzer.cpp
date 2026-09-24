@@ -14,6 +14,8 @@
  * limitations under the License.
  */
 
+#include <vector>
+#include <memory>
 #include "fuzzer/FuzzedDataProvider.h"
 
 #include "install/install.h"

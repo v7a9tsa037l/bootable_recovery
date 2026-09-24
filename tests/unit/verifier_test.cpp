@@ -14,6 +14,7 @@
  * limitations under the License.
  */
 
+#include <memory>
 #include <errno.h>
 #include <fcntl.h>
 #include <stdio.h>

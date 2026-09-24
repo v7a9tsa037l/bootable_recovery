@@ -14,6 +14,7 @@
  * limitations under the License.
  */
 
+#include <mutex>
 #include "recovery_ui/screen_ui.h"
 
 #include <dirent.h>

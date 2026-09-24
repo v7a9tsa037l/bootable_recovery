@@ -14,6 +14,7 @@
  * limitations under the License.
  */
 
+#include <vector>
 #include <dirent.h>
 #include <errno.h>
 #include <fcntl.h>

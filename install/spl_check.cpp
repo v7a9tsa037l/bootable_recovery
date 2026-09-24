@@ -14,6 +14,7 @@
  * limitations under the License.
  */
 
+#include <vector>
 #include "install/spl_check.h"
 
 bool ViolatesSPLDowngrade(const build::tools::releasetools::OtaMetadata& metadata,

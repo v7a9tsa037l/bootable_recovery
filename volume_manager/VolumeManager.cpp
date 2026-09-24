@@ -15,6 +15,8 @@
  * limitations under the License.
  */
 
+#include <vector>
+#include <mutex>
 #include <blkid/blkid.h>
 #include <dirent.h>
 #include <fcntl.h>

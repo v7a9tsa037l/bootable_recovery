@@ -14,6 +14,7 @@
  * limitations under the License.
  */
 
+#include <memory>
 #include <android-base/logging.h>
 #include <android-base/properties.h>
 #include <android-base/strings.h>

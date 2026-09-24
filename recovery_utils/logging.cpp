@@ -14,6 +14,7 @@
  * limitations under the License.
  */
 
+#include <vector>
 #include "recovery_utils/logging.h"
 
 #include <dirent.h>

@@ -14,6 +14,7 @@
  * limitations under the License.
  */
 
+#include <mutex>
 #include "recovery_ui/ui.h"
 
 #include <errno.h>

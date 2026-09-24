@@ -15,6 +15,7 @@
  * limitations under the License.
  */
 
+#include <memory>
 #include "Disk.h"
 #include "PublicVolume.h"
 #include <volume_manager/ResponseCode.h>

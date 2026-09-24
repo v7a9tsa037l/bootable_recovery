@@ -14,6 +14,7 @@
  * limitations under the License.
  */
 
+#include <vector>
 #include <string>
 
 #include <android-base/file.h>

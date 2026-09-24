@@ -14,6 +14,7 @@
  * limitations under the License.
  */
 
+#include <vector>
 #include "graphics_drm.h"
 
 #include <fcntl.h>

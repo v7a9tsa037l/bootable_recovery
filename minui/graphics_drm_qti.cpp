@@ -40,6 +40,7 @@
  * IN THE SOFTWARE.
  */
 
+#include <vector>
 #include "graphics_drm_qti.h"
 
 #include <errno.h>

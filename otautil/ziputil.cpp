@@ -14,6 +14,7 @@
  * limitations under the License.
  */
 
+#include <memory>
 #include "otautil/ziputil.h"
 
 #include <errno.h>

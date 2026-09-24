@@ -37,6 +37,7 @@
  * after the verification.
  */
 
+#include <vector>
 #include "update_verifier/update_verifier.h"
 
 #include <dirent.h>

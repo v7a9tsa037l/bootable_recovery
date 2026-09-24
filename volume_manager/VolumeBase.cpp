@@ -15,6 +15,7 @@
  * limitations under the License.
  */
 
+#include <vector>
 #include "VolumeBase.h"
 #include <volume_manager/ResponseCode.h>
 #include <volume_manager/VolumeManager.h>

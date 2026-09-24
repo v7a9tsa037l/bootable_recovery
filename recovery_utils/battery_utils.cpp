@@ -14,6 +14,7 @@
  * limitations under the License.
  */
 
+#include <memory>
 #include "recovery_utils/battery_utils.h"
 
 #include <stdint.h>

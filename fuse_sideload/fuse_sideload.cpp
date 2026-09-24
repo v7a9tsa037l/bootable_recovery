@@ -41,6 +41,7 @@
 // two files is implemented.  In particular, you can't opendir() or
 // readdir() on the "/sideload" directory; ls on it won't work.
 
+#include <memory>
 #include "fuse_sideload.h"
 
 #include <errno.h>

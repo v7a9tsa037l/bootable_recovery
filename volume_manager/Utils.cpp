@@ -15,6 +15,7 @@
  * limitations under the License.
  */
 
+#include <vector>
 #include "Utils.h"
 #include <volume_manager/VolumeManager.h>
 #include "Process.h"

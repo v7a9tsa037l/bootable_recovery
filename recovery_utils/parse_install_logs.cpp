@@ -14,6 +14,7 @@
  * limitations under the License.
  */
 
+#include <vector>
 #include "recovery_utils/parse_install_logs.h"
 
 #include <unistd.h>

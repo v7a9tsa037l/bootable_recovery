@@ -14,6 +14,7 @@
  * limitations under the License.
  */
 
+#include <vector>
 #include "recovery_ui/stub_ui.h"
 
 #include <android-base/logging.h>

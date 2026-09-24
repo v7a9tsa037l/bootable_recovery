@@ -14,6 +14,8 @@
  * limitations under the License.
  */
 
+#include <vector>
+#include <memory>
 #include "otautil/package.h"
 
 #include <string.h>

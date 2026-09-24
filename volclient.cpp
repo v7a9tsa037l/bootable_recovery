@@ -14,6 +14,7 @@
  * limitations under the License.
  */
 
+#include <vector>
 #include "volclient.h"
 #include <volume_manager/ResponseCode.h>
 
