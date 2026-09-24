@@ -18,6 +18,7 @@
 #ifndef _VOLMGR_VOLUME_MANAGER_H
 #define _VOLMGR_VOLUME_MANAGER_H
 
+#include <vector>
 #include <fnmatch.h>
 #include <pthread.h>
 #include <stdlib.h>
