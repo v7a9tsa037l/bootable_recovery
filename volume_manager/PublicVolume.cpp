@@ -15,6 +15,7 @@
  * limitations under the License.
  */
 
+#include <algorithm>
 #include "PublicVolume.h"
 #include <volume_manager/ResponseCode.h>
 #include <volume_manager/VolumeManager.h>
